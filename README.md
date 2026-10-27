@@ -7,6 +7,7 @@
 [![tests](https://github.com/srvskr1/stellenpilot/actions/workflows/tests.yml/badge.svg)](https://github.com/srvskr1/stellenpilot/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/srvskr1/stellenpilot/blob/main/LICENSE)
 [![Website](https://img.shields.io/badge/website-stellenpilot.dev-2563eb)](https://stellenpilot.dev)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Stellenpilot-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/products/stellenpilot)
 
 ![Stellenpilot in about a minute: the four setup steps, Home, the agent office, Jobs, Applications and Settings](https://raw.githubusercontent.com/srvskr1/stellenpilot/main/docs/demo.gif)
 

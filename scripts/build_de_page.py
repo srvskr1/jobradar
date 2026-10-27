@@ -72,6 +72,7 @@ def build(en):
     s = "".join(out) + en[pos:]
 
     s = swap(s, '<html lang="en">', '<html lang="de">')
+    s = swap(s, 'role="tablist" aria-label="Install with"', 'role="tablist" aria-label="Installieren mit"')
     s = re.sub(r"<title>.*?</title>", f"<title>{TITLE}</title>", s, count=1)
     s = re.sub(r'<meta name="description" content="[^"]*">', f'<meta name="description" content="{DESC}">', s, count=1)
     s = swap(s, f'<link rel="canonical" href="{SITE}/">', f'<link rel="canonical" href="{SITE}/de/">')
